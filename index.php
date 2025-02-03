@@ -43,7 +43,7 @@
         
         ?>
 
-<script src="./script.js"></script>
+<script src="./solveMyFirst.js"></script>
 </body>
 </html>
 
