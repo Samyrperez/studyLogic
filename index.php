@@ -43,7 +43,7 @@
         
         ?>
 
-<script src="./solveMyFirst.js"></script>
+<script src="./sumaArray.js"></script>
 </body>
 </html>
 
